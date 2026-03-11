@@ -4,8 +4,8 @@
 #include <PubSubClient.h>
 #include <ArduinoOTA.h>
 
-const char* ssid = "Zahid 2.4";
-const char* password = "homework10";
+const char* ssid = "*****";
+const char* password = "*****";
 
 const char* ca_cert = R"EOF(
 -----BEGIN CERTIFICATE-----
@@ -31,7 +31,7 @@ XIM+qdKuF9Hxc7+HvbWK
 -----END CERTIFICATE-----
 )EOF";
 
-const char* mqtt_server = "192.168.100.7";
+const char* mqtt_server = "ip";
 const int mqtt_port = 8883;
 
 const char* led_cmd_topic = "home/esp32/cmd";
