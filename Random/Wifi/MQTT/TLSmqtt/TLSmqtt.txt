@@ -1,0 +1,8 @@
+WiFi
+MQTT
+local broker - Mosquitto
+secure - Port 8883
+Username and Password
+TLS security
+CA Certificate
+OTA.

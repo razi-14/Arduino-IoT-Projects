@@ -1,0 +1,12 @@
+let d = new Date();
+let filename =
+  "data-" +
+  d.getFullYear() + "-" +
+  (d.getMonth()+1) + "-" +
+  d.getDate() +
+  ".csv";
+
+msg.filename = filename;
+msg.payload = `${d.toISOString()},${msg.payload.temp},${msg.payload.hum}\n`;
+
+return msg;

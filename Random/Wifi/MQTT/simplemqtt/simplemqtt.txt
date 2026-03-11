@@ -1,0 +1,8 @@
+WiFi
+MQTT
+HiveMQ broker
+Insecure - Port 1883
+No username or Password
+Only led ON, OFF
+Command in string
+Publishes state.

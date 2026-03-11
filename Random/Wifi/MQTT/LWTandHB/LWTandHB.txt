@@ -1,0 +1,9 @@
+WiFi
+MQTT
+local broker - Mosquitto
+Insecure - port 1883
+No username or password
+Json
+ESP32 active status and Heartbeat also published
+Last Will and Testament - OFFLINE
+Heartbeat includes Uptime and WiFi rssi

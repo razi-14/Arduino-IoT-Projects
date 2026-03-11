@@ -1,0 +1,1 @@
+At a specific time, IRAM_ATTR is called and it pauses everything to execute what you want.

@@ -1,0 +1,7 @@
+WiFi
+MQTT
+Insecure - port 1883
+No username or Password
+local broker - Mosquitto
+Json
+Sensor values randomly generated and published.

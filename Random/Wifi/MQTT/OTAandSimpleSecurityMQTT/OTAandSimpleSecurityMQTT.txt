@@ -1,0 +1,7 @@
+WiFi
+MQTT
+local broker - Mosquitto
+Normal Security - Port 1883
+Username and Password
+Led state, sensor values, active status, heartbeat, LWT published
+OTA.

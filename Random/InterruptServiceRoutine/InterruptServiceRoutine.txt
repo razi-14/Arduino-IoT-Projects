@@ -1,0 +1,1 @@
+Button press ---> instantly everything else paused and IRAM_ATTR runs ---> instant effect.

@@ -1,0 +1,11 @@
+WiFi
+MQTT
+HiveMQ broker
+insecure - port 1883
+No username or password
+Command in string
+Led ON, OFF
+Publishes state
+enum states used
+switch case used
+Blinking leds if wifi or mqtt not connected.
