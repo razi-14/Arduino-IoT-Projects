@@ -1,8 +1,0 @@
-WiFi
-MQTT
-local broker - Mosquitto
-insecure - port 1883
-No username or password
-Json
-Publish Interval subscribed
-Led state published after publish interval, and after it changes

@@ -1,2 +1,0 @@
-WiFi
-It ain't no server, it connects to my WiFi and makes an HTML page to control an led.

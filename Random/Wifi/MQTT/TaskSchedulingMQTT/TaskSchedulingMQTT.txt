@@ -1,7 +1,0 @@
-WiFi 
-MQTT
-Insecure - Port 1883
-No username or password
-Command in Json
-HiveMQ broker
-Publish Interval also subscribed

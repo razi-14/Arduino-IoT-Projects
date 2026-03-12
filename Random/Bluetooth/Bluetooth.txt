@@ -1,2 +1,0 @@
-Bluetooth
-Turning a series of leds ON/OFF via bluetooth.
